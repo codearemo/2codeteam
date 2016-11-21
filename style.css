@@ -6,6 +6,6 @@
   color:#939393;
   font-family: Arial serif Courier;
 }
-#nav-list li a:hover{
-  color:#1d1d1d;
+a:hover{
+  color:#000000;
 }
